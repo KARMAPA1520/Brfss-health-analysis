@@ -11,7 +11,10 @@ and nutrition in the U.S. using CDC BRFSS data 🧠💪
 - [ ] Phase 5 · Production
 
 ## Data
-Download the CSV from CDC and save it in `data/raw/`.
+Source: CDC — Nutrition, Physical Activity, and Obesity (BRFSS)
+https://data.cdc.gov/Nutrition-Physical-Activity-and-Obesity/Nutrition-Physical-Activity-and-Obesity-Behavioral/hn4x-zwk7
+License: Open Database License (ODbL)
+Downloaded: September 2026
 
 ## Setup
 python -m venv .venv
