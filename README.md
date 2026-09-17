@@ -59,4 +59,4 @@ The data downloads automatically when you run the first notebook.
 
 ## Author
 **Juan David Castillo** — Data Analyst moving into Data Science
-[LinkedIn](your-url) · [GitHub](your-url)
+[LinkedIn](https://www.linkedin.com/in/juan-david-castillo-bastidas/) · [GitHub](https://github.com/KARMAPA1520)
