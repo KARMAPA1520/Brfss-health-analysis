@@ -30,6 +30,7 @@ deployed prediction model.
 
 ## Repository structure
 
+``` brfss-health-analysis/ ├── data/ │ ├── raw/ # Original CDC data (not tracked) │ └── processed/ # Cleaned datasets (not tracked) ├── notebooks/ # Analysis, in order └── requirements.txt ``` </pre>
 
 ## Data
 **Source:** CDC — Nutrition, Physical Activity, and Obesity ([BRFSS][src])
